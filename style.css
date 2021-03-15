@@ -1,0 +1,32 @@
+body{
+	min-height: 2000px;
+}
+.jumbotron{
+	padding-top: 6rem;
+	background-color: #e2edff;
+}
+#about .justify-content-center{
+	text-align: justify;
+}
+.display-4{
+	font-weight: 400;
+}
+.lead{
+	font-weight: 400;
+}
+#projects{
+	background-color: #e2edff;
+}
+footer{
+	margin-top: 100px;
+	padding-top: 20px;
+}
+section{
+	padding-top: 5rem;
+}
+#projects .card{
+	border-radius: 40px;
+}
+#projects img{
+	border-radius: 40px 40px 0 0;
+}
